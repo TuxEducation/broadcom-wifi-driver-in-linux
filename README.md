@@ -7,6 +7,7 @@
 
 ## Help
 * Follow the steps shown on [Youtube](https://www.youtube.com/watch?v=zf7AEjWmWMg)
+
 **Note :** *The **WiFi** file shown in video is replaced to **broadcom_driver.sh** and it is tested on **Kali Linux** and working perfectly.*
 
 ------------
